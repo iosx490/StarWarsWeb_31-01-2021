@@ -1,0 +1,28 @@
+[{
+    "id": 1,
+    "autor": "Nombre alumno1",
+    "titulo": "Es un título de la página",
+    "srcimg": "https://i.ibb.co/m9mj78F/I.jpg",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "STARWARS I",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 2,
+    "autor": "Nombre alumno",
+    "titulo": "Título del proyecto",
+    "srcimg": "https://i.ibb.co/wNL7X3P/II.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "STARWARS II",
+    "url": "http://www.google.com"
+},
+{
+    "id": 3,
+    "autor": "Nombre alumno",
+    "titulo": "Título del proyecto",
+    "srcimg": "https://i.ibb.co/8dMdxjj/III.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "STARWARS III",
+    "url": "http://www.google.com"
+}
+]

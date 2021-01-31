@@ -1,0 +1,25 @@
+<template>
+<div>
+  <b-carousel
+    id="carousel-fade"
+    style="text-shadow: 0px 0px 2px #000"
+    fade
+    indicators
+    img-width="1024"
+    img-height="480"
+  >
+    <b-carousel-slide
+      img-src="../assets/SCROLL4.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      img-src="../assets/SCROLL2.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      img-src="../assets/SCROLL3.jpg"
+    ></b-carousel-slide>
+        <b-carousel-slide
+      img-src="../assets/SCROLL1.jpg"
+    ></b-carousel-slide>
+  </b-carousel>
+</div>
+</template>
